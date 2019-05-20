@@ -41,6 +41,8 @@ var player = {
     }
 }
 
+// test git now save the file
+
 //buller only one now
 var bullet = {
     x: 0,
