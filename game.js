@@ -13,11 +13,9 @@ var shootsound = new Audio('shoot.wav');
 
 var gameo=false;
 
-/////  test
 
 
-
-
+// git test  now save the file
 
 ///
 ///
